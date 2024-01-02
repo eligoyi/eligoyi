@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm OSP PRO</h1>
+<h1 align="center">Hi 👋, I'm Goyi De Code Genius</h1>
 <h3 align="center">A passionate Full Stack Developer from Africa</h3>
 
 <p align="left"> <a href="https://github.com/eligoyi/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eligoyi" alt="eligoyi" /></a> </p>
