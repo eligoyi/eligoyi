@@ -17,7 +17,7 @@
 
 - 💬 Ask me about *PHP,React-Native,React,VueJs,Angular, Python, Flask,Django,Julia Flutter, C, Go*
 
-- 📫 How to reach me *osp123ug@gmail.com*
+- 📫 How to reach me *eligoyi1919@gmail.com*
 
 - 📄 Know about my experiences [https://eligoyi.com/resume](https://eligoyi.com/resume)
 
